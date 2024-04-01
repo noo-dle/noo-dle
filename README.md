@@ -3,11 +3,12 @@
 **Pronouns:**
 _She/her_
 
-I'm currently studying Data Science through a Data Science Bootcamp by CoGrammar.
+🌱 I'm currently studying Data Science through a Data Science Bootcamp by CoGrammar.
 
-I'm hoping to develop my knowledge and understanding of Python in order to start my career in Data Science 😄
+🔭 I'm hoping to develop my knowledge and understanding of Python in order to start my career in Data Science, as well as build my portfolio to showcase what I'm capable of! 😄
 
-I'm also seeking to build my portfolio to showcase what I'm capable of!
+⚡ Fun fact: I have 2 fluffy cats called ✨ Crumpet and Freyja ✨
+
 
 <!--
 **noo-dle/noo-dle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
