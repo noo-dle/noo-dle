@@ -3,7 +3,7 @@
 **Pronouns:**
 _She/her_
 
-🌱 I'm currently studying Data Science through a Data Science Bootcamp by CoGrammar.
+🌱 I'm currently studying Data Science through a Data Science Bootcamp by CoGrammar. Check out my portfolio: https://www.hyperiondev.com/portfolio/AW24020013259/
 
 🔭 I'm hoping to develop my knowledge and understanding of Python in order to start my career in Data Science, as well as build my portfolio to showcase what I'm capable of! 😄
 
